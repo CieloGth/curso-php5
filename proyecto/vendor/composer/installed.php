@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'cielocorona/validacion',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '89144f9254ad62d7411a9d952190412eccb18db1',
+        'reference' => 'f12dfe879a97a1c405c0c3d29da2201b2515dc32',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'cielocorona/validacion' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '89144f9254ad62d7411a9d952190412eccb18db1',
+            'reference' => 'f12dfe879a97a1c405c0c3d29da2201b2515dc32',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
