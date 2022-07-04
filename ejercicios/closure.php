@@ -39,5 +39,5 @@
     foreach ($id as $key => $value) {
         echo greet($value,'Cielo')." <br>";
     }
-
+    
 ?>
